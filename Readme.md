@@ -27,7 +27,9 @@ Default city - Челябинск.
 
 С рекламными постами для начала затегайте админов (@vadimisakanov или @bubnov).
 
-## ENGLISH VERSION
+## ENGLISH VERSION / Channel rules
+
+#Sysadminka - Make Sysadmins Great Again!
 
 ## ABOUT
 
