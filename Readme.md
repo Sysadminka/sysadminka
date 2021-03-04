@@ -1,8 +1,4 @@
-## FOR ENGLISH VERSION CHECKOUT BELOW
-
-# По-русски / Правила канала
-
-#Sysadminka - Make Sysadmins Great Again!
+# Sysadminka - Make Sysadmins Great Again!
 
 ## О нас
 
