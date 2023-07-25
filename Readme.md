@@ -16,7 +16,6 @@ Default city - Челябинск.
 Модераторы
 
 - @Illusive_Echo
-- @Mihas74
 
 ## Социальные сети
 
